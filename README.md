@@ -2,7 +2,7 @@
 
 每日自动收集 GitHub Trending 项目，防止错过。
 
-**最新更新：2026-09-29**
+**最新更新：2026-09-30**
 
 ---
 
@@ -10,19 +10,22 @@
 
 | # | 仓库 | 语言 | Star | 今日新增 | 描述 |
 |---|---|---|---|---|---|
-| 1 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 44,452 | 3,221 stars today | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cl... |
-| 2 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | TypeScript | 93,021 | 3,197 stars today | The open-source app everyone uses to manage agents at work |
-| 3 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Python | 41,157 | 4,561 stars today | Hindsight: Agent Memory That Learns |
-| 4 | [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) | PLSQL | 25,803 | 158 stars today | Open-source, low-cost 10.5 GHz PLFM phased array RADAR system |
-| 5 | [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) | TeX | 2,562 | 195 stars today | Open Source Introductory Systems Programming Textbook for the University of I... |
-| 6 | [byoungd/up](https://github.com/byoungd/up) | JavaScript | 64,805 | 327 stars today | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人... |
-| 7 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | TypeScript | 1,792 | 734 stars today | Multi-agent harness that runs Claude Code and Codex together as one system |
-| 8 | [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | 21,326 | 1,099 stars today | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relati... |
+| 1 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 48,342 | 4,758 stars today | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cl... |
+| 2 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | 10,706 | 990 stars today | OpenShell is the safe, private runtime for autonomous AI agents. |
+| 3 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Python | 42,940 | 2,575 stars today | Hindsight: Agent Memory That Learns |
+| 4 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | TypeScript | 94,547 | 2,458 stars today | The open-source app everyone uses to manage agents at work |
+| 5 | [t8y2/dbx](https://github.com/t8y2/dbx) | Rust | 22,171 | 232 stars today | 25 MB lightweight cross-platform database client for 100+ databases, includin... |
+| 6 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | TypeScript | 2,478 | 737 stars today | Multi-agent harness that runs Claude Code and Codex together as one system |
+| 7 | [oblien/openship](https://github.com/oblien/openship) | TypeScript | 13,881 | 437 stars today | Self-hosted deployment platform |
+| 8 | [averygan/reclip](https://github.com/averygan/reclip) | HTML | 10,185 | 113 stars today | Download videos from almost any website. Lightweight, self-hosted media downl... |
+| 9 | [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) | TeX | 3,142 | 572 stars today | Open Source Introductory Systems Programming Textbook for the University of I... |
+| 10 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 61,495 | 786 stars today | Learn it. Build it. Ship it for others. |
 
 ---
 
 ## 历史归档
 
+- [2026-09-30](daily/2026-09-30.md)
 - [2026-09-29](daily/2026-09-29.md)
 
 ---
