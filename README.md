@@ -2,7 +2,7 @@
 
 每日自动收集 GitHub Trending 项目，防止错过。
 
-**最新更新：2026-10-01**
+**最新更新：2026-10-02**
 
 ---
 
@@ -10,21 +10,22 @@
 
 | # | 仓库 | 语言 | Star | 今日新增 | 描述 |
 |---|---|---|---|---|---|
-| 1 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | 12,807 | 1,281 stars today | OpenShell is the safe, private runtime for autonomous AI agents. |
-| 2 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 50,538 | 3,483 stars today | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cl... |
-| 3 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | TypeScript | 3,061 | 624 stars today | Multi-agent harness that runs Claude Code and Codex together as one system |
-| 4 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 24,515 | 90 stars today | Context window optimization for AI coding agents. Sandboxes tool output (98% ... |
-| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 149,251 | 743 stars today | Makes your AI agent think like the laziest senior dev in the room. The best c... |
-| 6 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 127,604 | 431 stars today | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or k... |
-| 7 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 391,003 | 136 stars today | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 |
-| 8 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | Python | 76,158 | 123 stars today | A curated list of awesome Claude Skills, resources, and tools for customizing... |
-| 9 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 273,051 | 876 stars today | Skills for Real Engineers. Straight from my .agents directory. |
-| 10 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | TypeScript | 54,770 | 349 stars today | Write HTML. Render video. Built for agents. |
+| 1 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 150,604 | 1,194 stars today | Makes your AI agent think like the laziest senior dev in the room. The best c... |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 273,961 | 883 stars today | Skills for Real Engineers. Straight from my .agents directory. |
+| 3 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | 14,056 | 2,456 stars today | OpenShell is the safe, private runtime for autonomous AI agents. |
+| 4 | [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) | C++ | 6,868 | 112 stars today | Firebase SDK for Apple App Development |
+| 5 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | TypeScript | 3,767 | 642 stars today | Build your own network of agents from Claude Code, Codex and Pi: persistent t... |
+| 6 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | 9,333 | 150 stars today | Cursor plugin specification and official plugins |
+| 7 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 294,011 | 455 stars today | An agentic skills framework & software development methodology that works. |
+| 8 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 24,800 | 362 stars today | Context window optimization for AI coding agents. Sandboxes tool output (98% ... |
+| 9 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | TypeScript | 55,377 | 627 stars today | Write HTML. Render video. Built for agents. |
+| 10 | [earendil-works/pi](https://github.com/earendil-works/pi) | TypeScript | 111,270 | 298 stars today | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
 
 ---
 
 ## 历史归档
 
+- [2026-10-02](daily/2026-10-02.md)
 - [2026-10-01](daily/2026-10-01.md)
 - [2026-09-30](daily/2026-09-30.md)
 - [2026-09-29](daily/2026-09-29.md)
