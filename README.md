@@ -2,7 +2,7 @@
 
 每日自动收集 GitHub Trending 项目，防止错过。
 
-**最新更新：2026-10-03**
+**最新更新：2026-10-04**
 
 ---
 
@@ -10,21 +10,22 @@
 
 | # | 仓库 | 语言 | Star | 今日新增 | 描述 |
 |---|---|---|---|---|---|
-| 1 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 88,730 | 696 stars today | Give your AI agent eyes to see the entire internet. Read & search Twitter, Re... |
-| 2 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Go | 109,125 | 209 stars today | 🪨 why use many token when few token do trick. Viral skill + proxy for coding ... |
-| 3 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 294,492 | 556 stars today | An agentic skills framework & software development methodology that works. |
-| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 151,873 | 1,435 stars today | Makes your AI agent think like the laziest senior dev in the room. The best c... |
-| 5 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | 74,362 | 722 stars today | The design language that makes your AI harness better at design. |
-| 6 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 274,753 | 955 stars today | Skills for Real Engineers. Straight from my .agents directory. |
-| 7 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | 14,452 | 594 stars today | OpenShell is the safe, private runtime for autonomous AI agents. |
-| 8 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | JavaScript | 52,433 | 140 stars today | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analyt... |
-| 9 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | TypeScript | 55,928 | 580 stars today | Write HTML. Render video. Built for agents. |
-| 10 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 25,054 | 282 stars today | Context window optimization for AI coding agents. Sandboxes tool output (98% ... |
+| 1 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 153,527 | 1,281 stars today | Makes your AI agent think like the laziest senior dev in the room. The best c... |
+| 2 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | 75,386 | 699 stars today | The design language that makes your AI harness better at design. |
+| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 272,309 | 897 stars today | The agent harness performance optimization system. Skills, instincts, memory,... |
+| 4 | [Effect-TS/effect](https://github.com/Effect-TS/effect) | TypeScript | 16,843 | 302 stars today | Build production-ready applications in TypeScript |
+| 5 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Go | 109,559 | 507 stars today | 🪨 why use many token when few token do trick. Viral skill + proxy for coding ... |
+| 6 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 89,894 | 1,696 stars today | Give your AI agent eyes to see the entire internet. Read & search Twitter, Re... |
+| 7 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | 24,724 | 252 stars today |  |
+| 8 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 95,630 | 79 stars today | Persistent Context Across Sessions for Every Agent – Captures everything your... |
+| 9 | [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) | TypeScript | 10,591 | 85 stars today | Agent workspace built on Cloudflare Workers for creating documents, building ... |
+| 10 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 100,872 | 252 stars today | Production-grade engineering skills for AI coding agents. |
 
 ---
 
 ## 历史归档
 
+- [2026-10-04](daily/2026-10-04.md)
 - [2026-10-03](daily/2026-10-03.md)
 - [2026-10-02](daily/2026-10-02.md)
 - [2026-10-01](daily/2026-10-01.md)
