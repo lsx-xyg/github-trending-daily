@@ -2,7 +2,7 @@
 
 每日自动收集 GitHub Trending 项目，防止错过。
 
-**最新更新：2026-10-06**
+**最新更新：2026-10-07**
 
 ---
 
@@ -10,21 +10,22 @@
 
 | # | 仓库 | 语言 | Star | 今日新增 | 描述 |
 |---|---|---|---|---|---|
-| 1 | [tester-army/e2e](https://github.com/tester-army/e2e) | TypeScript | 4,940 | 1,398 stars today | Next generation e2e testing framework for web and mobile apps. |
-| 2 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 96,679 | 534 stars today | Persistent Context Across Sessions for Every Agent – Captures everything your... |
-| 3 | [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) | JavaScript | 1,437 | 223 stars today | Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions o... |
-| 4 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Python | 17,491 | 437 stars today | Give your agent CAD superpowers. |
-| 5 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | 25,651 | 485 stars today |  |
-| 6 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | 5,028 | 997 stars today | Tool for automatic PS5 executables porting to Linux and Windows |
-| 7 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 91,990 | 1,155 stars today | Give your AI agent eyes to see the entire internet. Read & search Twitter, Re... |
-| 8 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 64,139 | 742 stars today | World's first open-source, agentic video production system. 12 production pip... |
-| 9 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | Go | 77,182 | 515 stars today | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS |
-| 10 | [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) | JavaScript | 4,335 | 1,433 stars today | Self-hosted gym & body-weight tracker — plan routines, log workouts (superset... |
+| 1 | [tester-army/e2e](https://github.com/tester-army/e2e) | TypeScript | 6,437 | 1,725 stars today | Next generation e2e testing framework for web and mobile apps. |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 278,230 | 889 stars today | Skills for Real Engineers. Straight from my .agents directory. |
+| 3 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Python | 18,029 | 619 stars today | Give your agent CAD superpowers. |
+| 4 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | 6,718 | 949 stars today | Tool for automatic PS5 executables porting to Linux and Windows |
+| 5 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | 77,747 | 616 stars today | The design language that makes your AI harness better at design. |
+| 6 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 97,216 | 534 stars today | Persistent Context Across Sessions for Every Agent – Captures everything your... |
+| 7 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Python | 54,461 | 326 stars today | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| 8 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 9,776 | 2,956 stars today | Reverse engineer anything with agents, from app behavior down to native binar... |
+| 9 | [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | Cuda | 8,735 | 199 stars today | DeepGEMM: clean and efficient BLAS kernel library on GPU |
+| 10 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 157,871 | 623 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit com... |
 
 ---
 
 ## 历史归档
 
+- [2026-10-07](daily/2026-10-07.md)
 - [2026-10-06](daily/2026-10-06.md)
 - [2026-10-05](daily/2026-10-05.md)
 - [2026-10-04](daily/2026-10-04.md)
