@@ -2,7 +2,7 @@
 
 每日自动收集 GitHub Trending 项目，防止错过。
 
-**最新更新：2026-10-07**
+**最新更新：2026-10-08**
 
 ---
 
@@ -10,21 +10,22 @@
 
 | # | 仓库 | 语言 | Star | 今日新增 | 描述 |
 |---|---|---|---|---|---|
-| 1 | [tester-army/e2e](https://github.com/tester-army/e2e) | TypeScript | 6,437 | 1,725 stars today | Next generation e2e testing framework for web and mobile apps. |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 278,230 | 889 stars today | Skills for Real Engineers. Straight from my .agents directory. |
-| 3 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Python | 18,029 | 619 stars today | Give your agent CAD superpowers. |
-| 4 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | 6,718 | 949 stars today | Tool for automatic PS5 executables porting to Linux and Windows |
-| 5 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | 77,747 | 616 stars today | The design language that makes your AI harness better at design. |
-| 6 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 97,216 | 534 stars today | Persistent Context Across Sessions for Every Agent – Captures everything your... |
-| 7 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Python | 54,461 | 326 stars today | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
-| 8 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 9,776 | 2,956 stars today | Reverse engineer anything with agents, from app behavior down to native binar... |
-| 9 | [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | Cuda | 8,735 | 199 stars today | DeepGEMM: clean and efficient BLAS kernel library on GPU |
-| 10 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 157,871 | 623 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit com... |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 16,029 | 4,655 stars today | Reverse engineer anything with agents, from app behavior down to native binar... |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 279,782 | 1,403 stars today | Skills for Real Engineers. Straight from my .agents directory. |
+| 3 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | 10,932 | 2,716 stars today | Tool for automatic PS5 executables porting to Linux and Windows |
+| 4 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Python | 55,226 | 619 stars today | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| 5 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 45,099 | 825 stars today | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droi... |
+| 6 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 102,894 | 677 stars today | Production-grade engineering skills for AI coding agents. |
+| 7 | [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) | C | 7,897 | 90 stars today | A native, user-mode, multi-process, graphical debugger. |
+| 8 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 97,805 | 578 stars today | Persistent Context Across Sessions for Every Agent – Captures everything your... |
+| 9 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | Swift | 27,885 | 44 stars today | Open source Ghostty-based macOS terminal with vertical tabs and notifications... |
+| 10 | [trycua/cua](https://github.com/trycua/cua) | Rust | 28,805 | 228 stars today | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchma... |
 
 ---
 
 ## 历史归档
 
+- [2026-10-08](daily/2026-10-08.md)
 - [2026-10-07](daily/2026-10-07.md)
 - [2026-10-06](daily/2026-10-06.md)
 - [2026-10-05](daily/2026-10-05.md)
