@@ -2,7 +2,7 @@
 
 每日自动收集 GitHub Trending 项目，防止错过。
 
-**最新更新：2026-10-08**
+**最新更新：2026-10-09**
 
 ---
 
@@ -10,21 +10,21 @@
 
 | # | 仓库 | 语言 | Star | 今日新增 | 描述 |
 |---|---|---|---|---|---|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 16,029 | 4,655 stars today | Reverse engineer anything with agents, from app behavior down to native binar... |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 279,782 | 1,403 stars today | Skills for Real Engineers. Straight from my .agents directory. |
-| 3 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | 10,932 | 2,716 stars today | Tool for automatic PS5 executables porting to Linux and Windows |
-| 4 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Python | 55,226 | 619 stars today | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
-| 5 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 45,099 | 825 stars today | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droi... |
-| 6 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 102,894 | 677 stars today | Production-grade engineering skills for AI coding agents. |
-| 7 | [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) | C | 7,897 | 90 stars today | A native, user-mode, multi-process, graphical debugger. |
-| 8 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 97,805 | 578 stars today | Persistent Context Across Sessions for Every Agent – Captures everything your... |
-| 9 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | Swift | 27,885 | 44 stars today | Open source Ghostty-based macOS terminal with vertical tabs and notifications... |
-| 10 | [trycua/cua](https://github.com/trycua/cua) | Rust | 28,805 | 228 stars today | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchma... |
+| 1 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | 16,250 | 4,669 stars today | Tool for automatic PS5 executables porting to Linux and Windows |
+| 2 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 46,568 | 1,160 stars today | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droi... |
+| 3 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 28,485 | 7,738 stars today | Reverse engineer anything with agents, from app behavior down to native binar... |
+| 4 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 281,263 | 1,774 stars today | Skills for Real Engineers. Straight from my .agents directory. |
+| 5 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 98,578 | 670 stars today | Persistent Context Across Sessions for Every Agent – Captures everything your... |
+| 6 | [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) | C | 8,147 | 279 stars today | A native, user-mode, multi-process, graphical debugger. |
+| 7 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 27,689 | 392 stars today | Open source repository of plugins primarily intended for knowledge workers to... |
+| 8 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | 8,307 | 2,103 stars today | ArtCraft is an intentional crafting engine for artists, designers, and filmma... |
+| 9 | [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | - | 24,750 | 393 stars today | Notes of the book System Desgin Interview - An Insider's Guide |
 
 ---
 
 ## 历史归档
 
+- [2026-10-09](daily/2026-10-09.md)
 - [2026-10-08](daily/2026-10-08.md)
 - [2026-10-07](daily/2026-10-07.md)
 - [2026-10-06](daily/2026-10-06.md)
