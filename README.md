@@ -2,7 +2,7 @@
 
 每日自动收集 GitHub Trending 项目，防止错过。
 
-**最新更新：2026-10-09**
+**最新更新：2026-10-10**
 
 ---
 
@@ -10,20 +10,22 @@
 
 | # | 仓库 | 语言 | Star | 今日新增 | 描述 |
 |---|---|---|---|---|---|
-| 1 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | 16,250 | 4,669 stars today | Tool for automatic PS5 executables porting to Linux and Windows |
-| 2 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 46,568 | 1,160 stars today | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droi... |
-| 3 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 28,485 | 7,738 stars today | Reverse engineer anything with agents, from app behavior down to native binar... |
-| 4 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 281,263 | 1,774 stars today | Skills for Real Engineers. Straight from my .agents directory. |
-| 5 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 98,578 | 670 stars today | Persistent Context Across Sessions for Every Agent – Captures everything your... |
-| 6 | [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) | C | 8,147 | 279 stars today | A native, user-mode, multi-process, graphical debugger. |
-| 7 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 27,689 | 392 stars today | Open source repository of plugins primarily intended for knowledge workers to... |
-| 8 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | 8,307 | 2,103 stars today | ArtCraft is an intentional crafting engine for artists, designers, and filmma... |
-| 9 | [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | - | 24,750 | 393 stars today | Notes of the book System Desgin Interview - An Insider's Guide |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 48,986 | 14,927 stars today | Reverse engineer anything with agents, from app behavior down to native binar... |
+| 2 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | 22,707 | 5,868 stars today | Tool for automatic PS5 executables porting to Linux and Windows |
+| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 282,870 | 1,687 stars today | Skills for Real Engineers. Straight from my .agents directory. |
+| 4 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 47,997 | 1,739 stars today | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droi... |
+| 5 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | 45,330 | 326 stars today | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architectur... |
+| 6 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 28,318 | 709 stars today | Open source repository of plugins primarily intended for knowledge workers to... |
+| 7 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | Python | 60,703 | 95 stars today | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs... |
+| 8 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 104,054 | 436 stars today | Production-grade engineering skills for AI coding agents. |
+| 9 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | 11,749 | 3,752 stars today | ArtCraft is an intentional crafting engine for artists, designers, and filmma... |
+| 10 | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | Python | 17,744 | 110 stars today | [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transfo... |
 
 ---
 
 ## 历史归档
 
+- [2026-10-10](daily/2026-10-10.md)
 - [2026-10-09](daily/2026-10-09.md)
 - [2026-10-08](daily/2026-10-08.md)
 - [2026-10-07](daily/2026-10-07.md)
