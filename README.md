@@ -2,7 +2,7 @@
 
 每日自动收集 GitHub Trending 项目，防止错过。
 
-**最新更新：2026-10-10**
+**最新更新：2026-10-11**
 
 ---
 
@@ -10,21 +10,22 @@
 
 | # | 仓库 | 语言 | Star | 今日新增 | 描述 |
 |---|---|---|---|---|---|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 48,986 | 14,927 stars today | Reverse engineer anything with agents, from app behavior down to native binar... |
-| 2 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | 22,707 | 5,868 stars today | Tool for automatic PS5 executables porting to Linux and Windows |
-| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 282,870 | 1,687 stars today | Skills for Real Engineers. Straight from my .agents directory. |
-| 4 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 47,997 | 1,739 stars today | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droi... |
-| 5 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | 45,330 | 326 stars today | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architectur... |
-| 6 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 28,318 | 709 stars today | Open source repository of plugins primarily intended for knowledge workers to... |
-| 7 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | Python | 60,703 | 95 stars today | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs... |
-| 8 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 104,054 | 436 stars today | Production-grade engineering skills for AI coding agents. |
-| 9 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | 11,749 | 3,752 stars today | ArtCraft is an intentional crafting engine for artists, designers, and filmma... |
-| 10 | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | Python | 17,744 | 110 stars today | [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transfo... |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 74,321 | 25,793 stars today | Reverse engineer anything with agents, from app behavior down to native binar... |
+| 2 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | 27,041 | 5,805 stars today | Tool for automatic PS5 executables porting to Linux and Windows |
+| 3 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | 14,643 | 3,222 stars today | ArtCraft is an intentional crafting engine for artists, designers, and filmma... |
+| 4 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 49,024 | 1,190 stars today | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Fact... |
+| 5 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 26,345 | 178 stars today | Context window optimization for AI coding agents. Sandboxes tool output (98% ... |
+| 6 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 284,592 | 1,736 stars today | Skills for Real Engineers. Straight from my .agents directory. |
+| 7 | [flutter/flutter](https://github.com/flutter/flutter) | Dart | 179,547 | 88 stars today | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
+| 8 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | C++ | 200,739 | 26 stars today | An Open Source Machine Learning Framework for Everyone |
+| 9 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | Python | 59,531 | 461 stars today | AI turns documents or topics into real, native PowerPoint decks—with native s... |
+| 10 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | Python | 104,154 | 84 stars today | Tensors and Dynamic neural networks in Python with strong GPU acceleration |
 
 ---
 
 ## 历史归档
 
+- [2026-10-11](daily/2026-10-11.md)
 - [2026-10-10](daily/2026-10-10.md)
 - [2026-10-09](daily/2026-10-09.md)
 - [2026-10-08](daily/2026-10-08.md)
