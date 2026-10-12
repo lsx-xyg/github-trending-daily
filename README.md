@@ -2,7 +2,7 @@
 
 每日自动收集 GitHub Trending 项目，防止错过。
 
-**最新更新：2026-10-11**
+**最新更新：2026-10-12**
 
 ---
 
@@ -10,21 +10,20 @@
 
 | # | 仓库 | 语言 | Star | 今日新增 | 描述 |
 |---|---|---|---|---|---|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 74,321 | 25,793 stars today | Reverse engineer anything with agents, from app behavior down to native binar... |
-| 2 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | 27,041 | 5,805 stars today | Tool for automatic PS5 executables porting to Linux and Windows |
-| 3 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | 14,643 | 3,222 stars today | ArtCraft is an intentional crafting engine for artists, designers, and filmma... |
-| 4 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 49,024 | 1,190 stars today | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Fact... |
-| 5 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 26,345 | 178 stars today | Context window optimization for AI coding agents. Sandboxes tool output (98% ... |
-| 6 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 284,592 | 1,736 stars today | Skills for Real Engineers. Straight from my .agents directory. |
-| 7 | [flutter/flutter](https://github.com/flutter/flutter) | Dart | 179,547 | 88 stars today | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
-| 8 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | C++ | 200,739 | 26 stars today | An Open Source Machine Learning Framework for Everyone |
-| 9 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | Python | 59,531 | 461 stars today | AI turns documents or topics into real, native PowerPoint decks—with native s... |
-| 10 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | Python | 104,154 | 84 stars today | Tensors and Dynamic neural networks in Python with strong GPU acceleration |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 109,951 | 25,599 stars today | Reverse engineer anything with agents, from app behavior down to native binar... |
+| 2 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | 30,373 | 3,952 stars today | Tool for automatic PS5 executables porting to Linux and Windows |
+| 3 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | 18,276 | 2,957 stars today | ArtCraft is an intentional crafting engine for artists, designers, and filmma... |
+| 4 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 50,548 | 1,083 stars today | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Fact... |
+| 5 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | 51,849 | 886 stars today | A spy satellite simulator in your browser, except the data is real. Live open... |
+| 6 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | Python | 104,547 | 315 stars today | Tensors and Dynamic neural networks in Python with strong GPU acceleration |
+| 7 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | 36,579 | 548 stars today | AirLLM 70B inference with single 4GB GPU |
+| 8 | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | Assembly | 74,299 | 466 stars today | Original Apollo 11 Guidance Computer (AGC) source code for the command and lu... |
 
 ---
 
 ## 历史归档
 
+- [2026-10-12](daily/2026-10-12.md)
 - [2026-10-11](daily/2026-10-11.md)
 - [2026-10-10](daily/2026-10-10.md)
 - [2026-10-09](daily/2026-10-09.md)
