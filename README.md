@@ -2,7 +2,7 @@
 
 每日自动收集 GitHub Trending 项目，防止错过。
 
-**最新更新：2026-10-12**
+**最新更新：2026-10-13**
 
 ---
 
@@ -10,19 +10,21 @@
 
 | # | 仓库 | 语言 | Star | 今日新增 | 描述 |
 |---|---|---|---|---|---|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 109,951 | 25,599 stars today | Reverse engineer anything with agents, from app behavior down to native binar... |
-| 2 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | 30,373 | 3,952 stars today | Tool for automatic PS5 executables porting to Linux and Windows |
-| 3 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | 18,276 | 2,957 stars today | ArtCraft is an intentional crafting engine for artists, designers, and filmma... |
-| 4 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 50,548 | 1,083 stars today | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Fact... |
-| 5 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | 51,849 | 886 stars today | A spy satellite simulator in your browser, except the data is real. Live open... |
-| 6 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | Python | 104,547 | 315 stars today | Tensors and Dynamic neural networks in Python with strong GPU acceleration |
-| 7 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | 36,579 | 548 stars today | AirLLM 70B inference with single 4GB GPU |
-| 8 | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | Assembly | 74,299 | 466 stars today | Original Apollo 11 Guidance Computer (AGC) source code for the command and lu... |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 166,821 | 45,327 stars today | Reverse engineer anything with agents, from app behavior down to native binar... |
+| 2 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | 53,947 | 1,895 stars today | A spy satellite simulator in your browser, except the data is real. Live open... |
+| 3 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 27,432 | 246 stars today | Context window optimization for AI coding agents. Sandboxes tool output (98% ... |
+| 4 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | 22,611 | 4,095 stars today | ArtCraft is an intentional crafting engine for artists, designers, and filmma... |
+| 5 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python | 155,185 | 157 stars today | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
+| 6 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 52,892 | 2,081 stars today | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Fact... |
+| 7 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | 37,657 | 879 stars today | AirLLM 2.8T LLM inference with single 4GB GPU |
+| 8 | [microsoft/BitNet](https://github.com/microsoft/BitNet) | C++ | 40,964 | 97 stars today | Official inference framework for 1-bit LLMs |
+| 9 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 59,326 | 626 stars today | Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for ... |
 
 ---
 
 ## 历史归档
 
+- [2026-10-13](daily/2026-10-13.md)
 - [2026-10-12](daily/2026-10-12.md)
 - [2026-10-11](daily/2026-10-11.md)
 - [2026-10-10](daily/2026-10-10.md)
