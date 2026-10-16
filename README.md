@@ -2,7 +2,7 @@
 
 每日自动收集 GitHub Trending 项目，防止错过。
 
-**最新更新：2026-10-15**
+**最新更新：2026-10-16**
 
 ---
 
@@ -10,21 +10,22 @@
 
 | # | 仓库 | 语言 | Star | 今日新增 | 描述 |
 |---|---|---|---|---|---|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 243,998 | 41,034 stars today | Reverse engineer anything with agents, from app behavior down to native binar... |
-| 2 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 66,506 | 3,538 stars today | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cl... |
-| 3 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 29,176 | 947 stars today | Context window optimization for AI coding agents. Sandboxes tool output (98% ... |
-| 4 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Shell | 95,467 | 52 stars today | Node Version Manager - POSIX-compliant bash script to manage multiple active ... |
-| 5 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 49,405 | 163 stars today | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for scien... |
-| 6 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 52,549 | 103 stars today | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianythi... |
-| 7 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | Python | 27,497 | 2,109 stars today | Independent Auditing of AI Agents. Run by human or the agent itself, to answe... |
-| 8 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Go | 29,563 | 1,025 stars today | Fully autonomous AI Agents system capable of performing complex penetration t... |
-| 9 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust | 120,064 | 207 stars today | Empowering everyone to build reliable and efficient software. |
-| 10 | [xtool-org/xtool](https://github.com/xtool-org/xtool) | Swift | 10,891 | 1,502 stars today | Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on L... |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 271,495 | 32,314 stars today | Reverse engineer anything with agents, from app behavior down to native binar... |
+| 2 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 39,149 | 307 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| 3 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 50,524 | 1,091 stars today | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for scien... |
+| 4 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Go | 112,591 | 433 stars today | 🪨 why use many token when few token do trick. Viral skill + proxy for coding ... |
+| 5 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 69,177 | 3,024 stars today | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cl... |
+| 6 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 299,933 | 582 stars today | An agentic skills framework & software development methodology that works. |
+| 7 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 75,149 | 147 stars today | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordin... |
+| 8 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 29,809 | 904 stars today | Context window optimization for AI coding agents. Sandboxes tool output (98% ... |
+| 9 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | 88,811 | 1,369 stars today | Ghidra is a software reverse engineering (SRE) framework |
+| 10 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 280,432 | 1,013 stars today | The agent harness performance optimization system. Skills, instincts, memory,... |
 
 ---
 
 ## 历史归档
 
+- [2026-10-16](daily/2026-10-16.md)
 - [2026-10-15](daily/2026-10-15.md)
 - [2026-10-14](daily/2026-10-14.md)
 - [2026-10-13](daily/2026-10-13.md)
