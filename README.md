@@ -2,7 +2,7 @@
 
 每日自动收集 GitHub Trending 项目，防止错过。
 
-**最新更新：2026-10-16**
+**最新更新：2026-10-17**
 
 ---
 
@@ -10,21 +10,22 @@
 
 | # | 仓库 | 语言 | Star | 今日新增 | 描述 |
 |---|---|---|---|---|---|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 271,495 | 32,314 stars today | Reverse engineer anything with agents, from app behavior down to native binar... |
-| 2 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 39,149 | 307 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
-| 3 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 50,524 | 1,091 stars today | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for scien... |
-| 4 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Go | 112,591 | 433 stars today | 🪨 why use many token when few token do trick. Viral skill + proxy for coding ... |
-| 5 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 69,177 | 3,024 stars today | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cl... |
-| 6 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 299,933 | 582 stars today | An agentic skills framework & software development methodology that works. |
-| 7 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 75,149 | 147 stars today | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordin... |
-| 8 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 29,809 | 904 stars today | Context window optimization for AI coding agents. Sandboxes tool output (98% ... |
-| 9 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | 88,811 | 1,369 stars today | Ghidra is a software reverse engineering (SRE) framework |
-| 10 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 280,432 | 1,013 stars today | The agent harness performance optimization system. Skills, instincts, memory,... |
+| 1 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 40,617 | 1,552 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| 2 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 51,535 | 1,158 stars today | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for scien... |
+| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 281,542 | 1,057 stars today | The agent harness performance optimization system. Skills, instincts, memory,... |
+| 4 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 53,521 | 281 stars today | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianythi... |
+| 5 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 30,246 | 449 stars today | Context window optimization for AI coding agents. Sandboxes tool output (98% ... |
+| 6 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 75,650 | 672 stars today | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordin... |
+| 7 | [android/skills](https://github.com/android/skills) | Kotlin | 8,089 | 36 stars today |  |
+| 8 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 300,691 | 973 stars today | An agentic skills framework & software development methodology that works. |
+| 9 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | 11,974 | 278 stars today | Cursor plugin specification and official plugins |
+| 10 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 71,284 | 2,301 stars today | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cl... |
 
 ---
 
 ## 历史归档
 
+- [2026-10-17](daily/2026-10-17.md)
 - [2026-10-16](daily/2026-10-16.md)
 - [2026-10-15](daily/2026-10-15.md)
 - [2026-10-14](daily/2026-10-14.md)
