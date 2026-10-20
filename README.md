@@ -2,7 +2,7 @@
 
 每日自动收集 GitHub Trending 项目，防止错过。
 
-**最新更新：2026-10-19**
+**最新更新：2026-10-20**
 
 ---
 
@@ -10,21 +10,22 @@
 
 | # | 仓库 | 语言 | Star | 今日新增 | 描述 |
 |---|---|---|---|---|---|
-| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | 53,395 | 2,232 stars today | The job search that runs on your machine. AI job application framework built ... |
-| 2 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 42,736 | 1,175 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
-| 3 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 216,655 | 1,414 stars today | The open source coding agent. |
-| 4 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | 12,766 | 350 stars today | Cursor plugin specification and official plugins |
-| 5 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 76,554 | 513 stars today | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordin... |
-| 6 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | 10,531 | 512 stars today | Solution for long term memory for agent coding CLIs and to facilitate handoff... |
-| 7 | [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | 96,735 | 1,146 stars today | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude C... |
-| 8 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 54,624 | 589 stars today | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianythi... |
-| 9 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 75,506 | 2,082 stars today | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cl... |
-| 10 | [android/skills](https://github.com/android/skills) | Kotlin | 8,797 | 375 stars today |  |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | 57,496 | 3,856 stars today | The job search that runs on your machine. AI job application framework built ... |
+| 2 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 217,882 | 1,311 stars today | The open source coding agent. |
+| 3 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | 11,405 | 666 stars today | Solution for long term memory for agent coding CLIs and to facilitate handoff... |
+| 4 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | 139,799 | 1,011 stars today | The most powerful and modular diffusion model GUI, api and backend with a gra... |
+| 5 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 77,226 | 564 stars today | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordin... |
+| 6 | [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | 98,370 | 1,590 stars today | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude C... |
+| 7 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Python | 76,280 | 310 stars today | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM.... |
+| 8 | [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) | JavaScript | 6,173 | 284 stars today |  |
+| 9 | [Kruk2/jasna](https://github.com/Kruk2/jasna) | Python | 2,939 | 498 stars today | Video restoration tool |
+| 10 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 55,282 | 606 stars today | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianythi... |
 
 ---
 
 ## 历史归档
 
+- [2026-10-20](daily/2026-10-20.md)
 - [2026-10-19](daily/2026-10-19.md)
 - [2026-10-18](daily/2026-10-18.md)
 - [2026-10-17](daily/2026-10-17.md)
