@@ -2,7 +2,7 @@
 
 每日自动收集 GitHub Trending 项目，防止错过。
 
-**最新更新：2026-10-20**
+**最新更新：2026-10-21**
 
 ---
 
@@ -10,21 +10,22 @@
 
 | # | 仓库 | 语言 | Star | 今日新增 | 描述 |
 |---|---|---|---|---|---|
-| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | 57,496 | 3,856 stars today | The job search that runs on your machine. AI job application framework built ... |
-| 2 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 217,882 | 1,311 stars today | The open source coding agent. |
-| 3 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | 11,405 | 666 stars today | Solution for long term memory for agent coding CLIs and to facilitate handoff... |
-| 4 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | 139,799 | 1,011 stars today | The most powerful and modular diffusion model GUI, api and backend with a gra... |
-| 5 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 77,226 | 564 stars today | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordin... |
-| 6 | [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | 98,370 | 1,590 stars today | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude C... |
-| 7 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Python | 76,280 | 310 stars today | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM.... |
-| 8 | [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) | JavaScript | 6,173 | 284 stars today |  |
-| 9 | [Kruk2/jasna](https://github.com/Kruk2/jasna) | Python | 2,939 | 498 stars today | Video restoration tool |
-| 10 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 55,282 | 606 stars today | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianythi... |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | 60,770 | 3,861 stars today | The job search that runs on your machine. AI job application framework built ... |
+| 2 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 34,348 | 1,712 stars today | A coding-agent skill for multi-phase security audits with independently verif... |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | 99,824 | 1,565 stars today | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude C... |
+| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 169,807 | 1,208 stars today | Makes your AI agent think like the laziest senior dev in the room. The best c... |
+| 5 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | 140,829 | 1,206 stars today | The most powerful and modular diffusion model GUI, api and backend with a gra... |
+| 6 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 77,877 | 684 stars today | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordin... |
+| 7 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | 130,328 | 802 stars today | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a quer... |
+| 8 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 218,992 | 1,240 stars today | The open source coding agent. |
+| 9 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 162,400 | 562 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit com... |
+| 10 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Python | 76,792 | 549 stars today | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM.... |
 
 ---
 
 ## 历史归档
 
+- [2026-10-21](daily/2026-10-21.md)
 - [2026-10-20](daily/2026-10-20.md)
 - [2026-10-19](daily/2026-10-19.md)
 - [2026-10-18](daily/2026-10-18.md)
