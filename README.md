@@ -2,7 +2,7 @@
 
 每日自动收集 GitHub Trending 项目，防止错过。
 
-**最新更新：2026-10-21**
+**最新更新：2026-10-22**
 
 ---
 
@@ -10,21 +10,22 @@
 
 | # | 仓库 | 语言 | Star | 今日新增 | 描述 |
 |---|---|---|---|---|---|
-| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | 60,770 | 3,861 stars today | The job search that runs on your machine. AI job application framework built ... |
-| 2 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 34,348 | 1,712 stars today | A coding-agent skill for multi-phase security audits with independently verif... |
-| 3 | [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | 99,824 | 1,565 stars today | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude C... |
-| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 169,807 | 1,208 stars today | Makes your AI agent think like the laziest senior dev in the room. The best c... |
-| 5 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | 140,829 | 1,206 stars today | The most powerful and modular diffusion model GUI, api and backend with a gra... |
-| 6 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 77,877 | 684 stars today | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordin... |
-| 7 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | 130,328 | 802 stars today | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a quer... |
-| 8 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 218,992 | 1,240 stars today | The open source coding agent. |
-| 9 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 162,400 | 562 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit com... |
-| 10 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Python | 76,792 | 549 stars today | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM.... |
+| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 36,629 | 2,012 stars today | A coding-agent skill for multi-phase security audits with independently verif... |
+| 2 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | Python | 94,908 | 441 stars today | A high-throughput and memory-efficient inference and serving engine for LLMs |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | 101,366 | 1,541 stars today | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude C... |
+| 4 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Python | 77,289 | 474 stars today | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM.... |
+| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 171,750 | 2,079 stars today | Makes your AI agent think like the laziest senior dev in the room. The best c... |
+| 6 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | 141,565 | 939 stars today | The most powerful and modular diffusion model GUI, api and backend with a gra... |
+| 7 | [supabase/supabase](https://github.com/supabase/supabase) | TypeScript | 113,041 | 504 stars today | The Postgres development platform. Supabase gives you a dedicated Postgres da... |
+| 8 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | 59,209 | 112 stars today | The open alternative to Salesforce, designed for AI. |
+| 9 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 42,857 | 575 stars today | Kronos: A Foundation Model for the Language of Financial Markets |
+| 10 | [strelov1/freehire](https://github.com/strelov1/freehire) | Go | 2,439 | 360 stars today | freehire — the open-source search engine for job seekers |
 
 ---
 
 ## 历史归档
 
+- [2026-10-22](daily/2026-10-22.md)
 - [2026-10-21](daily/2026-10-21.md)
 - [2026-10-20](daily/2026-10-20.md)
 - [2026-10-19](daily/2026-10-19.md)
