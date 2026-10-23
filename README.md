@@ -2,7 +2,7 @@
 
 每日自动收集 GitHub Trending 项目，防止错过。
 
-**最新更新：2026-10-22**
+**最新更新：2026-10-23**
 
 ---
 
@@ -10,21 +10,21 @@
 
 | # | 仓库 | 语言 | Star | 今日新增 | 描述 |
 |---|---|---|---|---|---|
-| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 36,629 | 2,012 stars today | A coding-agent skill for multi-phase security audits with independently verif... |
-| 2 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | Python | 94,908 | 441 stars today | A high-throughput and memory-efficient inference and serving engine for LLMs |
-| 3 | [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | 101,366 | 1,541 stars today | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude C... |
-| 4 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Python | 77,289 | 474 stars today | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM.... |
-| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 171,750 | 2,079 stars today | Makes your AI agent think like the laziest senior dev in the room. The best c... |
-| 6 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | 141,565 | 939 stars today | The most powerful and modular diffusion model GUI, api and backend with a gra... |
-| 7 | [supabase/supabase](https://github.com/supabase/supabase) | TypeScript | 113,041 | 504 stars today | The Postgres development platform. Supabase gives you a dedicated Postgres da... |
-| 8 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | 59,209 | 112 stars today | The open alternative to Salesforce, designed for AI. |
-| 9 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 42,857 | 575 stars today | Kronos: A Foundation Model for the Language of Financial Markets |
-| 10 | [strelov1/freehire](https://github.com/strelov1/freehire) | Go | 2,439 | 360 stars today | freehire — the open-source search engine for job seekers |
+| 1 | [php/php-src](https://github.com/php/php-src) | C | 41,200 | 287 stars today | The PHP Interpreter |
+| 2 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 31,655 | 303 stars today | Open source repository of plugins primarily intended for knowledge workers to... |
+| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 173,586 | 1,948 stars today | Makes your AI agent think like the laziest senior dev in the room. The best c... |
+| 4 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 39,680 | 2,979 stars today | A coding-agent skill for multi-phase security audits with independently verif... |
+| 5 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | 133,024 | 1,408 stars today | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a quer... |
+| 6 | [supabase/supabase](https://github.com/supabase/supabase) | TypeScript | 113,514 | 693 stars today | The Postgres development platform. Supabase gives you a dedicated Postgres da... |
+| 7 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | Python | 103,782 | 101 stars today | FastAPI framework, high performance, easy to learn, fast to code, ready for p... |
+| 8 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 43,281 | 177 stars today | A visual, example-driven guide to Claude Code — from basic concepts to advanc... |
+| 9 | [Meloong-Git/PCL](https://github.com/Meloong-Git/PCL) | Visual Basic .NET | 8,717 | 119 stars today | Minecraft 启动器 Plain Craft Launcher（PCL）。 |
 
 ---
 
 ## 历史归档
 
+- [2026-10-23](daily/2026-10-23.md)
 - [2026-10-22](daily/2026-10-22.md)
 - [2026-10-21](daily/2026-10-21.md)
 - [2026-10-20](daily/2026-10-20.md)
