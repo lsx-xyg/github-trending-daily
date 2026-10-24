@@ -2,7 +2,7 @@
 
 每日自动收集 GitHub Trending 项目，防止错过。
 
-**最新更新：2026-10-23**
+**最新更新：2026-10-24**
 
 ---
 
@@ -10,20 +10,20 @@
 
 | # | 仓库 | 语言 | Star | 今日新增 | 描述 |
 |---|---|---|---|---|---|
-| 1 | [php/php-src](https://github.com/php/php-src) | C | 41,200 | 287 stars today | The PHP Interpreter |
-| 2 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 31,655 | 303 stars today | Open source repository of plugins primarily intended for knowledge workers to... |
-| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 173,586 | 1,948 stars today | Makes your AI agent think like the laziest senior dev in the room. The best c... |
-| 4 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 39,680 | 2,979 stars today | A coding-agent skill for multi-phase security audits with independently verif... |
-| 5 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | 133,024 | 1,408 stars today | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a quer... |
-| 6 | [supabase/supabase](https://github.com/supabase/supabase) | TypeScript | 113,514 | 693 stars today | The Postgres development platform. Supabase gives you a dedicated Postgres da... |
-| 7 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | Python | 103,782 | 101 stars today | FastAPI framework, high performance, easy to learn, fast to code, ready for p... |
-| 8 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 43,281 | 177 stars today | A visual, example-driven guide to Claude Code — from basic concepts to advanc... |
-| 9 | [Meloong-Git/PCL](https://github.com/Meloong-Git/PCL) | Visual Basic .NET | 8,717 | 119 stars today | Minecraft 启动器 Plain Craft Launcher（PCL）。 |
+| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 42,228 | 2,716 stars today | A coding-agent skill for multi-phase security audits with independently verif... |
+| 2 | [php/php-src](https://github.com/php/php-src) | C | 41,573 | 716 stars today | The PHP Interpreter |
+| 3 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 32,249 | 635 stars today | Open source repository of plugins primarily intended for knowledge workers to... |
+| 4 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | 18,834 | 1,119 stars today | OpenShell is the safe, private runtime for autonomous AI agents. |
+| 5 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | TypeScript | 6,894 | 546 stars today | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
+| 6 | [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | Python | 8,524 | 226 stars today | claude-red is a curated library of offensive security skills designed for the... |
+| 7 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | 40,283 | 150 stars today | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voic... |
+| 8 | [nodejs/node](https://github.com/nodejs/node) | JavaScript | 122,892 | 66 stars today | Node.js JavaScript runtime ✨🐢🚀✨ |
 
 ---
 
 ## 历史归档
 
+- [2026-10-24](daily/2026-10-24.md)
 - [2026-10-23](daily/2026-10-23.md)
 - [2026-10-22](daily/2026-10-22.md)
 - [2026-10-21](daily/2026-10-21.md)
