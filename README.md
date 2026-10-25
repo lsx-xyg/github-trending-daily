@@ -2,7 +2,7 @@
 
 每日自动收集 GitHub Trending 项目，防止错过。
 
-**最新更新：2026-10-24**
+**最新更新：2026-10-25**
 
 ---
 
@@ -10,19 +10,22 @@
 
 | # | 仓库 | 语言 | Star | 今日新增 | 描述 |
 |---|---|---|---|---|---|
-| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 42,228 | 2,716 stars today | A coding-agent skill for multi-phase security audits with independently verif... |
-| 2 | [php/php-src](https://github.com/php/php-src) | C | 41,573 | 716 stars today | The PHP Interpreter |
-| 3 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 32,249 | 635 stars today | Open source repository of plugins primarily intended for knowledge workers to... |
-| 4 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | 18,834 | 1,119 stars today | OpenShell is the safe, private runtime for autonomous AI agents. |
-| 5 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | TypeScript | 6,894 | 546 stars today | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
-| 6 | [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | Python | 8,524 | 226 stars today | claude-red is a curated library of offensive security skills designed for the... |
-| 7 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | 40,283 | 150 stars today | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voic... |
-| 8 | [nodejs/node](https://github.com/nodejs/node) | JavaScript | 122,892 | 66 stars today | Node.js JavaScript runtime ✨🐢🚀✨ |
+| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 44,658 | 2,264 stars today | A coding-agent skill for multi-phase security audits with independently verif... |
+| 2 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | 19,495 | 896 stars today | OpenShell is the safe, private runtime for autonomous AI agents. |
+| 3 | [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) | Python | 3,142 | 13 stars today | Official, AWS-supported MCP servers, skills, and plugins to help AI agents bu... |
+| 4 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 32,192 | 455 stars today | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| 5 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 44,587 | 392 stars today | A visual, example-driven guide to Claude Code — from basic concepts to advanc... |
+| 6 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | 86,453 | 619 stars today | The design language that makes your AI harness better at design. |
+| 7 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | Rust | 11,019 | 319 stars today | A Tiny biped duck robot 🦆 |
+| 8 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript | 108,078 | 44 stars today | An open-source AI agent that brings the power of Gemini directly into your te... |
+| 9 | [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) | Python | 22,643 | 227 stars today | 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满... |
+| 10 | [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | 4,122 | 477 stars today | Consider it done. The open-source AI agent that works out of the box · 想到，就能做... |
 
 ---
 
 ## 历史归档
 
+- [2026-10-25](daily/2026-10-25.md)
 - [2026-10-24](daily/2026-10-24.md)
 - [2026-10-23](daily/2026-10-23.md)
 - [2026-10-22](daily/2026-10-22.md)
