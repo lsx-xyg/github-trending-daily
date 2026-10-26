@@ -2,7 +2,7 @@
 
 每日自动收集 GitHub Trending 项目，防止错过。
 
-**最新更新：2026-10-25**
+**最新更新：2026-10-26**
 
 ---
 
@@ -10,21 +10,22 @@
 
 | # | 仓库 | 语言 | Star | 今日新增 | 描述 |
 |---|---|---|---|---|---|
-| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 44,658 | 2,264 stars today | A coding-agent skill for multi-phase security audits with independently verif... |
-| 2 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | 19,495 | 896 stars today | OpenShell is the safe, private runtime for autonomous AI agents. |
-| 3 | [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) | Python | 3,142 | 13 stars today | Official, AWS-supported MCP servers, skills, and plugins to help AI agents bu... |
-| 4 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 32,192 | 455 stars today | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
-| 5 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 44,587 | 392 stars today | A visual, example-driven guide to Claude Code — from basic concepts to advanc... |
-| 6 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | 86,453 | 619 stars today | The design language that makes your AI harness better at design. |
-| 7 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | Rust | 11,019 | 319 stars today | A Tiny biped duck robot 🦆 |
-| 8 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript | 108,078 | 44 stars today | An open-source AI agent that brings the power of Gemini directly into your te... |
-| 9 | [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) | Python | 22,643 | 227 stars today | 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满... |
-| 10 | [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | 4,122 | 477 stars today | Consider it done. The open-source AI agent that works out of the box · 想到，就能做... |
+| 1 | [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | 4,935 | 675 stars today | Consider it done. The open-source AI agent that works out of the box · 想到，就能做... |
+| 2 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 33,898 | 1,317 stars today | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| 3 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 86,930 | 1,592 stars today | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cl... |
+| 4 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | 87,763 | 1,092 stars today | The design language that makes your AI harness better at design. |
+| 5 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | Rust | 11,695 | 647 stars today | A Tiny biped duck robot 🦆 |
+| 6 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 114,670 | 381 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| 7 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | TypeScript | 7,652 | 199 stars today | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
+| 8 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | 1,801 | 51 stars today | Vibe code with pi in a lightweight, real IDE that customises itself around th... |
+| 9 | [coollabsio/coolify](https://github.com/coollabsio/coolify) | PHP | 64,438 | 152 stars today | An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify th... |
+| 10 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 47,001 | 2,878 stars today | A coding-agent skill for multi-phase security audits with independently verif... |
 
 ---
 
 ## 历史归档
 
+- [2026-10-26](daily/2026-10-26.md)
 - [2026-10-25](daily/2026-10-25.md)
 - [2026-10-24](daily/2026-10-24.md)
 - [2026-10-23](daily/2026-10-23.md)
