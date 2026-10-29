@@ -2,7 +2,7 @@
 
 每日自动收集 GitHub Trending 项目，防止错过。
 
-**最新更新：2026-10-28**
+**最新更新：2026-10-29**
 
 ---
 
@@ -10,21 +10,22 @@
 
 | # | 仓库 | 语言 | Star | 今日新增 | 描述 |
 |---|---|---|---|---|---|
-| 1 | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | - | 9,567 | 1,395 stars today |  |
-| 2 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 39,162 | 2,830 stars today | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
-| 3 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | TypeScript | 2,536 | 777 stars today | A local-first desktop workspace for persistent AI teammates. Run Codex, Claud... |
-| 4 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 306,512 | 617 stars today | An agentic skills framework & software development methodology that works. |
-| 5 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | 90,697 | 1,449 stars today | The design language that makes your AI harness better at design. |
-| 6 | [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | 7,545 | 1,465 stars today | Consider it done. The open-source AI agent that works out of the box · 想到，就能做... |
-| 7 | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | TypeScript | 39,460 | 951 stars today | 📨 The ultimate agentic social media scheduling tool 🤖 |
-| 8 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 290,959 | 1,165 stars today | The agent harness performance optimization system. Skills, instincts, memory,... |
-| 9 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | 46,101 | 1,598 stars today | DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/. |
-| 10 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | 4,124 | 1,204 stars today | Vibe code with pi in a lightweight, real IDE that customises itself around th... |
+| 1 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | 5,189 | 1,068 stars today | Vibe code with pi in a lightweight, real IDE that customises itself around th... |
+| 2 | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | - | 11,262 | 2,139 stars today |  |
+| 3 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 307,531 | 1,095 stars today | An agentic skills framework & software development methodology that works. |
+| 4 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | 48,204 | 2,371 stars today | DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/. |
+| 5 | [macro-inc/macro](https://github.com/macro-inc/macro) | Rust | 5,467 | 117 stars today | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, cal... |
+| 6 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 40,853 | 2,110 stars today | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| 7 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | 92,972 | 1,472 stars today | The design vocabulary for your coding agent. Steer with polish and bolder, re... |
+| 8 | [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | 8,177 | 728 stars today | Consider it done. The open-source AI agent that works out of the box · 想到，就能做... |
+| 9 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | TypeScript | 3,322 | 1,054 stars today | A local-first desktop workspace for persistent AI teammates. Run Codex, Claud... |
+| 10 | [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | - | 7,281 | 1,477 stars today | LIST OF ALL MY JAILBREAKS |
 
 ---
 
 ## 历史归档
 
+- [2026-10-29](daily/2026-10-29.md)
 - [2026-10-28](daily/2026-10-28.md)
 - [2026-10-27](daily/2026-10-27.md)
 - [2026-10-26](daily/2026-10-26.md)
@@ -54,7 +55,7 @@
 - [2026-10-02](daily/2026-10-02.md)
 - [2026-10-01](daily/2026-10-01.md)
 - [2026-09-30](daily/2026-09-30.md)
-- [2026-09-29](daily/2026-09-29.md)
+- ... 共 31 天，查看 [daily/](daily/) 目录
 
 ---
 
