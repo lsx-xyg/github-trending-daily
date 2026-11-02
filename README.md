@@ -2,7 +2,7 @@
 
 每日自动收集 GitHub Trending 项目，防止错过。
 
-**最新更新：2026-11-01**
+**最新更新：2026-11-02**
 
 ---
 
@@ -10,21 +10,22 @@
 
 | # | 仓库 | 语言 | Star | 今日新增 | 描述 |
 |---|---|---|---|---|---|
-| 1 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 107,963 | 1,723 stars today | Persistent Context Across Sessions for Every Agent – Captures everything your... |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 308,483 | 883 stars today | Skills for Real Engineers. Straight from my .agents directory. |
-| 3 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | 31,233 | 742 stars today | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skil... |
-| 4 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | 35,737 | 1,148 stars today |  |
-| 5 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | TypeScript | 12,338 | 1,092 stars today | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
-| 6 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | 9,705 | 1,303 stars today | Open-source Grok Bot alternative with a virtual machine that bots can use |
-| 7 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | 98,368 | 1,338 stars today | The design vocabulary for your coding agent. Steer with polish and bolder, re... |
-| 8 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 310,104 | 665 stars today | An agentic skills framework & software development methodology that works. |
-| 9 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | 39,295 | 929 stars today | Lightpanda: the headless browser designed for AI and automation |
-| 10 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | 52,905 | 1,034 stars today | DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/. |
+| 1 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 109,467 | 1,526 stars today | Persistent Context Across Sessions for Every Agent – Captures everything your... |
+| 2 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | 40,279 | 825 stars today | Lightpanda: the headless browser designed for AI and automation |
+| 3 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 45,466 | 630 stars today | Kronos: A Foundation Model for the Language of Financial Markets |
+| 4 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | 38,305 | 3,094 stars today |  |
+| 5 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | 10,652 | 922 stars today | Open-source Grok Bot alternative with a virtual machine that bots can use |
+| 6 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | 494,740 | 324 stars today | A collective list of free APIs |
+| 7 | [cjpais/Handy](https://github.com/cjpais/Handy) | Rust | 36,650 | 339 stars today | A free, open source, and extensible speech-to-text application that works com... |
+| 8 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | 32,426 | 967 stars today | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skil... |
+| 9 | [kornia/kornia](https://github.com/kornia/kornia) | Python | 11,840 | 101 stars today | 🐍 Geometric Computer Vision Library for Spatial AI |
+| 10 | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | Python | 6,287 | 446 stars today | Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MI... |
 
 ---
 
 ## 历史归档
 
+- [2026-11-02](daily/2026-11-02.md)
 - [2026-11-01](daily/2026-11-01.md)
 - [2026-10-31](daily/2026-10-31.md)
 - [2026-10-30](daily/2026-10-30.md)
@@ -54,8 +55,7 @@
 - [2026-10-06](daily/2026-10-06.md)
 - [2026-10-05](daily/2026-10-05.md)
 - [2026-10-04](daily/2026-10-04.md)
-- [2026-10-03](daily/2026-10-03.md)
-- ... 共 34 天，查看 [daily/](daily/) 目录
+- ... 共 35 天，查看 [daily/](daily/) 目录
 
 ---
 
