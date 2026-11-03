@@ -2,7 +2,7 @@
 
 每日自动收集 GitHub Trending 项目，防止错过。
 
-**最新更新：2026-11-02**
+**最新更新：2026-11-03**
 
 ---
 
@@ -10,21 +10,22 @@
 
 | # | 仓库 | 语言 | Star | 今日新增 | 描述 |
 |---|---|---|---|---|---|
-| 1 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 109,467 | 1,526 stars today | Persistent Context Across Sessions for Every Agent – Captures everything your... |
-| 2 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | 40,279 | 825 stars today | Lightpanda: the headless browser designed for AI and automation |
-| 3 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 45,466 | 630 stars today | Kronos: A Foundation Model for the Language of Financial Markets |
-| 4 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | 38,305 | 3,094 stars today |  |
-| 5 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | 10,652 | 922 stars today | Open-source Grok Bot alternative with a virtual machine that bots can use |
-| 6 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | 494,740 | 324 stars today | A collective list of free APIs |
-| 7 | [cjpais/Handy](https://github.com/cjpais/Handy) | Rust | 36,650 | 339 stars today | A free, open source, and extensible speech-to-text application that works com... |
-| 8 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | 32,426 | 967 stars today | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skil... |
-| 9 | [kornia/kornia](https://github.com/kornia/kornia) | Python | 11,840 | 101 stars today | 🐍 Geometric Computer Vision Library for Spatial AI |
-| 10 | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | Python | 6,287 | 446 stars today | Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MI... |
+| 1 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | 10,344 | 2,275 stars today | Computer use CLI for AI agents |
+| 2 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 110,922 | 1,803 stars today | Persistent Context Across Sessions for Every Agent – Captures everything your... |
+| 3 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | 93,166 | 706 stars today | 🕷️ The BEST Web Scraping framework that handles everything from a single requ... |
+| 4 | [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | C++ | 40,013 | 509 stars today | Hyprland is an independent, highly customizable, dynamic tiling Wayland compo... |
+| 5 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | 33,744 | 1,379 stars today | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skil... |
+| 6 | [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | Python | 16,191 | 653 stars today | FreeToken brings datacenter-scale model serving to your desktop. Run massive ... |
+| 7 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | 42,305 | 3,229 stars today |  |
+| 8 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 46,069 | 857 stars today | Kronos: A Foundation Model for the Language of Financial Markets |
+| 9 | [kornia/kornia](https://github.com/kornia/kornia) | Python | 12,180 | 412 stars today | 🐍 Geometric Computer Vision Library for Spatial AI |
+| 10 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | C | 46,684 | 675 stars today | Run frontier MoE models on hardware you already own — pure C, zero deps, expe... |
 
 ---
 
 ## 历史归档
 
+- [2026-11-03](daily/2026-11-03.md)
 - [2026-11-02](daily/2026-11-02.md)
 - [2026-11-01](daily/2026-11-01.md)
 - [2026-10-31](daily/2026-10-31.md)
@@ -54,8 +55,7 @@
 - [2026-10-07](daily/2026-10-07.md)
 - [2026-10-06](daily/2026-10-06.md)
 - [2026-10-05](daily/2026-10-05.md)
-- [2026-10-04](daily/2026-10-04.md)
-- ... 共 35 天，查看 [daily/](daily/) 目录
+- ... 共 36 天，查看 [daily/](daily/) 目录
 
 ---
 
