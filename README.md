@@ -2,7 +2,7 @@
 
 每日自动收集 GitHub Trending 项目，防止错过。
 
-**最新更新：2026-11-03**
+**最新更新：2026-11-04**
 
 ---
 
@@ -10,21 +10,22 @@
 
 | # | 仓库 | 语言 | Star | 今日新增 | 描述 |
 |---|---|---|---|---|---|
-| 1 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | 10,344 | 2,275 stars today | Computer use CLI for AI agents |
-| 2 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 110,922 | 1,803 stars today | Persistent Context Across Sessions for Every Agent – Captures everything your... |
-| 3 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | 93,166 | 706 stars today | 🕷️ The BEST Web Scraping framework that handles everything from a single requ... |
-| 4 | [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | C++ | 40,013 | 509 stars today | Hyprland is an independent, highly customizable, dynamic tiling Wayland compo... |
-| 5 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | 33,744 | 1,379 stars today | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skil... |
-| 6 | [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | Python | 16,191 | 653 stars today | FreeToken brings datacenter-scale model serving to your desktop. Run massive ... |
-| 7 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | 42,305 | 3,229 stars today |  |
-| 8 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 46,069 | 857 stars today | Kronos: A Foundation Model for the Language of Financial Markets |
-| 9 | [kornia/kornia](https://github.com/kornia/kornia) | Python | 12,180 | 412 stars today | 🐍 Geometric Computer Vision Library for Spatial AI |
-| 10 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | C | 46,684 | 675 stars today | Run frontier MoE models on hardware you already own — pure C, zero deps, expe... |
+| 1 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 112,057 | 1,139 stars today | Persistent Context Across Sessions for Every Agent – Captures everything your... |
+| 2 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | 13,092 | 3,791 stars today | Computer use CLI for AI agents |
+| 3 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Rust | 10,575 | 438 stars today | Worktrunk is a CLI for Git worktree management, designed for parallel AI agen... |
+| 4 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | C | 47,319 | 802 stars today | A hierarchical inference engine for frontier MoE models: hot experts on the G... |
+| 5 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 311,618 | 1,164 stars today | Skills for Real Engineers. Straight from my .agents directory. |
+| 6 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | 38,887 | 701 stars today | Training-free language model modification: Remove censorship, suppress slop, ... |
+| 7 | [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins) | TypeScript | 3,075 | 91 stars today |  |
+| 8 | [floci-io/floci](https://github.com/floci-io/floci) | Java | 28,905 | 482 stars today | Light, fluffy, and always free - The AWS Local Emulator alternative |
+| 9 | [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | Python | 16,619 | 228 stars today | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 |
+| 10 | [anomalyco/hex](https://github.com/anomalyco/hex) | Rust | 4,671 | 410 stars today | Local voice dictation for mac, windows and linux |
 
 ---
 
 ## 历史归档
 
+- [2026-11-04](daily/2026-11-04.md)
 - [2026-11-03](daily/2026-11-03.md)
 - [2026-11-02](daily/2026-11-02.md)
 - [2026-11-01](daily/2026-11-01.md)
@@ -54,8 +55,7 @@
 - [2026-10-08](daily/2026-10-08.md)
 - [2026-10-07](daily/2026-10-07.md)
 - [2026-10-06](daily/2026-10-06.md)
-- [2026-10-05](daily/2026-10-05.md)
-- ... 共 36 天，查看 [daily/](daily/) 目录
+- ... 共 37 天，查看 [daily/](daily/) 目录
 
 ---
 
