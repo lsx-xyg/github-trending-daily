@@ -2,7 +2,7 @@
 
 每日自动收集 GitHub Trending 项目，防止错过。
 
-**最新更新：2026-11-04**
+**最新更新：2026-11-05**
 
 ---
 
@@ -10,21 +10,22 @@
 
 | # | 仓库 | 语言 | Star | 今日新增 | 描述 |
 |---|---|---|---|---|---|
-| 1 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 112,057 | 1,139 stars today | Persistent Context Across Sessions for Every Agent – Captures everything your... |
-| 2 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | 13,092 | 3,791 stars today | Computer use CLI for AI agents |
-| 3 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Rust | 10,575 | 438 stars today | Worktrunk is a CLI for Git worktree management, designed for parallel AI agen... |
-| 4 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | C | 47,319 | 802 stars today | A hierarchical inference engine for frontier MoE models: hot experts on the G... |
-| 5 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 311,618 | 1,164 stars today | Skills for Real Engineers. Straight from my .agents directory. |
-| 6 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | 38,887 | 701 stars today | Training-free language model modification: Remove censorship, suppress slop, ... |
-| 7 | [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins) | TypeScript | 3,075 | 91 stars today |  |
-| 8 | [floci-io/floci](https://github.com/floci-io/floci) | Java | 28,905 | 482 stars today | Light, fluffy, and always free - The AWS Local Emulator alternative |
-| 9 | [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | Python | 16,619 | 228 stars today | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 |
-| 10 | [anomalyco/hex](https://github.com/anomalyco/hex) | Rust | 4,671 | 410 stars today | Local voice dictation for mac, windows and linux |
+| 1 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Python | 5,407 | 2,050 stars today | Auto Ontology is a Python framework for building semantic, graph-based reason... |
+| 2 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Rust | 11,120 | 531 stars today | Worktrunk is a CLI for Git worktree management, designed for parallel AI agen... |
+| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 313,536 | 1,379 stars today | Skills for Real Engineers. Straight from my .agents directory. |
+| 4 | [floci-io/floci](https://github.com/floci-io/floci) | Java | 29,724 | 1,090 stars today | Light, fluffy, and always free - The AWS Local Emulator alternative |
+| 5 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 112,974 | 1,172 stars today | Persistent Context Across Sessions for Every Agent – Captures everything your... |
+| 6 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | 15,433 | 2,470 stars today | Computer use CLI for AI agents |
+| 7 | [github/spec-kit](https://github.com/github/spec-kit) | Python | 147,401 | 808 stars today | 💫 Toolkit to help you get started with SDD or any other process! |
+| 8 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | Python | 14,839 | 280 stars today | 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qod... |
+| 9 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 139,151 | 617 stars today | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or k... |
+| 10 | [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | 139,416 | 290 stars today | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as C... |
 
 ---
 
 ## 历史归档
 
+- [2026-11-05](daily/2026-11-05.md)
 - [2026-11-04](daily/2026-11-04.md)
 - [2026-11-03](daily/2026-11-03.md)
 - [2026-11-02](daily/2026-11-02.md)
@@ -54,8 +55,7 @@
 - [2026-10-09](daily/2026-10-09.md)
 - [2026-10-08](daily/2026-10-08.md)
 - [2026-10-07](daily/2026-10-07.md)
-- [2026-10-06](daily/2026-10-06.md)
-- ... 共 37 天，查看 [daily/](daily/) 目录
+- ... 共 38 天，查看 [daily/](daily/) 目录
 
 ---
 
