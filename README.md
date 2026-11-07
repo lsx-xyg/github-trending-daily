@@ -2,7 +2,7 @@
 
 每日自动收集 GitHub Trending 项目，防止错过。
 
-**最新更新：2026-11-06**
+**最新更新：2026-11-07**
 
 ---
 
@@ -10,21 +10,22 @@
 
 | # | 仓库 | 语言 | Star | 今日新增 | 描述 |
 |---|---|---|---|---|---|
-| 1 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Python | 7,605 | 2,679 stars today | Auto Ontology is a Python framework for building semantic, graph-based reason... |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 315,485 | 2,071 stars today | Skills for Real Engineers. Straight from my .agents directory. |
-| 3 | [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | 140,036 | 612 stars today | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as C... |
-| 4 | [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | Python | 17,759 | 240 stars today | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 |
-| 5 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | 98,160 | 1,655 stars today | 🕷️ The BEST Web Scraping framework that handles everything from a single requ... |
-| 6 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | 17,091 | 2,173 stars today | Computer use CLI for AI agents |
-| 7 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Rust | 11,578 | 546 stars today | Worktrunk is a CLI for Git worktree management, designed for parallel AI agen... |
-| 8 | [lz4/lz4](https://github.com/lz4/lz4) | C | 12,413 | 23 stars today | Extremely Fast Compression algorithm |
-| 9 | [google/skills](https://github.com/google/skills) | Python | 22,443 | 211 stars today | Agent Skills for Google products and technologies |
-| 10 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Rust | 45,992 | 150 stars today | Browser automation CLI for AI agents |
+| 1 | [zed-industries/zed](https://github.com/zed-industries/zed) | Rust | 93,713 | 306 stars today | Code at the speed of thought – Zed is a high-performance, multiplayer code ed... |
+| 2 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Python | 9,170 | 2,015 stars today | Auto Ontology is a Python framework for building semantic, graph-based reason... |
+| 3 | [rails/rails](https://github.com/rails/rails) | Ruby | 59,040 | 142 stars today | Ruby on Rails |
+| 4 | [mpv-player/mpv](https://github.com/mpv-player/mpv) | C | 37,899 | 37 stars today | 🎥 Command line media player |
+| 5 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust | 121,484 | 192 stars today | Empowering everyone to build reliable and efficient software. |
+| 6 | [react/react](https://github.com/react/react) | JavaScript | 252,277 | 248 stars today | The library for web and native user interfaces. |
+| 7 | [angular/angular](https://github.com/angular/angular) | TypeScript | 101,387 | 135 stars today | Deliver web apps with confidence 🚀 |
+| 8 | [symfony/symfony](https://github.com/symfony/symfony) | PHP | 31,448 | 128 stars today | The Symfony PHP framework |
+| 9 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | Go | 67,210 | 148 stars today | The Prometheus monitoring system and time series database. |
+| 10 | [google/skills](https://github.com/google/skills) | Python | 22,878 | 534 stars today | Agent Skills for Google products and technologies |
 
 ---
 
 ## 历史归档
 
+- [2026-11-07](daily/2026-11-07.md)
 - [2026-11-06](daily/2026-11-06.md)
 - [2026-11-05](daily/2026-11-05.md)
 - [2026-11-04](daily/2026-11-04.md)
@@ -54,8 +55,7 @@
 - [2026-10-11](daily/2026-10-11.md)
 - [2026-10-10](daily/2026-10-10.md)
 - [2026-10-09](daily/2026-10-09.md)
-- [2026-10-08](daily/2026-10-08.md)
-- ... 共 39 天，查看 [daily/](daily/) 目录
+- ... 共 40 天，查看 [daily/](daily/) 目录
 
 ---
 
