@@ -2,7 +2,7 @@
 
 每日自动收集 GitHub Trending 项目，防止错过。
 
-**最新更新：2026-11-07**
+**最新更新：2026-11-08**
 
 ---
 
@@ -10,21 +10,22 @@
 
 | # | 仓库 | 语言 | Star | 今日新增 | 描述 |
 |---|---|---|---|---|---|
-| 1 | [zed-industries/zed](https://github.com/zed-industries/zed) | Rust | 93,713 | 306 stars today | Code at the speed of thought – Zed is a high-performance, multiplayer code ed... |
-| 2 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Python | 9,170 | 2,015 stars today | Auto Ontology is a Python framework for building semantic, graph-based reason... |
-| 3 | [rails/rails](https://github.com/rails/rails) | Ruby | 59,040 | 142 stars today | Ruby on Rails |
-| 4 | [mpv-player/mpv](https://github.com/mpv-player/mpv) | C | 37,899 | 37 stars today | 🎥 Command line media player |
-| 5 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust | 121,484 | 192 stars today | Empowering everyone to build reliable and efficient software. |
-| 6 | [react/react](https://github.com/react/react) | JavaScript | 252,277 | 248 stars today | The library for web and native user interfaces. |
-| 7 | [angular/angular](https://github.com/angular/angular) | TypeScript | 101,387 | 135 stars today | Deliver web apps with confidence 🚀 |
-| 8 | [symfony/symfony](https://github.com/symfony/symfony) | PHP | 31,448 | 128 stars today | The Symfony PHP framework |
-| 9 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | Go | 67,210 | 148 stars today | The Prometheus monitoring system and time series database. |
-| 10 | [google/skills](https://github.com/google/skills) | Python | 22,878 | 534 stars today | Agent Skills for Google products and technologies |
+| 1 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Rust | 46,896 | 190 stars today | Browser automation CLI for AI agents |
+| 2 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 65,836 | 2,085 stars today | A coding-agent skill for multi-phase security audits with independently verif... |
+| 3 | [google/skills](https://github.com/google/skills) | Python | 23,450 | 443 stars today | Agent Skills for Google products and technologies |
+| 4 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 317,787 | 1,100 stars today | Skills for Real Engineers. Straight from my .agents directory. |
+| 5 | [anthropics/skills](https://github.com/anthropics/skills) | Python | 188,851 | 390 stars today | Public repository for Agent Skills |
+| 6 | [meta/astryx](https://github.com/meta/astryx) | TypeScript | 14,615 | 96 stars today | An open source design system that's fully customizable and agent ready |
+| 7 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | Go | 67,458 | 322 stars today | The Prometheus monitoring system and time series database. |
+| 8 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | 100,659 | 1,766 stars today | Hunt down social media accounts by username across social networks |
+| 9 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | 17,095 | 1,955 stars today | Open-source Grok Bot alternative with a virtual machine that bots can use |
+| 10 | [astral-sh/ruff](https://github.com/astral-sh/ruff) | Rust | 50,992 | 350 stars today | An extremely fast Python linter and code formatter, written in Rust. |
 
 ---
 
 ## 历史归档
 
+- [2026-11-08](daily/2026-11-08.md)
 - [2026-11-07](daily/2026-11-07.md)
 - [2026-11-06](daily/2026-11-06.md)
 - [2026-11-05](daily/2026-11-05.md)
@@ -54,8 +55,7 @@
 - [2026-10-12](daily/2026-10-12.md)
 - [2026-10-11](daily/2026-10-11.md)
 - [2026-10-10](daily/2026-10-10.md)
-- [2026-10-09](daily/2026-10-09.md)
-- ... 共 40 天，查看 [daily/](daily/) 目录
+- ... 共 41 天，查看 [daily/](daily/) 目录
 
 ---
 
