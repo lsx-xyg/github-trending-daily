@@ -2,7 +2,7 @@
 
 每日自动收集 GitHub Trending 项目，防止错过。
 
-**最新更新：2026-11-10**
+**最新更新：2026-11-11**
 
 ---
 
@@ -10,21 +10,22 @@
 
 | # | 仓库 | 语言 | Star | 今日新增 | 描述 |
 |---|---|---|---|---|---|
-| 1 | [anthropics/skills](https://github.com/anthropics/skills) | Python | 191,271 | 1,038 stars today | Public repository for Agent Skills |
-| 2 | [meta/astryx](https://github.com/meta/astryx) | TypeScript | 20,610 | 3,278 stars today | An open source design system that's fully customizable and agent ready |
-| 3 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | 107,519 | 4,267 stars today | Hunt down social media accounts by username across social networks |
-| 4 | [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | C++ | 17,013 | 574 stars today | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
-| 5 | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | Python | 20,120 | 551 stars today | A collection of projects designed to help developers quickly get started with... |
-| 6 | [garrytan/gbrain](https://github.com/garrytan/gbrain) | TypeScript | 32,262 | 216 stars today | Garry's Opinionated OpenClaw/Hermes Agent Brain |
-| 7 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Rust | 48,633 | 916 stars today | Browser automation CLI for AI agents |
-| 8 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 103,594 | 172 stars today | π RuView turns commodity WiFi signals into real-time spatial intelligence, vi... |
-| 9 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | 69,108 | 506 stars today | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market st... |
-| 10 | [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | Python | 6,112 | 31 stars today | Configure and automate Home Assistant with Claude, ChatGPT, and other AI assi... |
+| 1 | [meta/astryx](https://github.com/meta/astryx) | TypeScript | 23,177 | 3,108 stars today | An open source design system that's fully customizable and agent ready |
+| 2 | [anthropics/skills](https://github.com/anthropics/skills) | Python | 192,442 | 1,679 stars today | Public repository for Agent Skills |
+| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 115,254 | 465 stars today | Production-grade engineering skills for AI coding agents. |
+| 4 | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | Python | 20,546 | 531 stars today | A collection of projects designed to help developers quickly get started with... |
+| 5 | [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | C++ | 17,422 | 456 stars today | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
+| 6 | [we-promise/sure](https://github.com/we-promise/sure) | Ruby | 12,084 | 159 stars today | The personal finance app for everyone (by everyone) |
+| 7 | [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | Python | 6,738 | 790 stars today | Configure and automate Home Assistant with Claude, ChatGPT, and other AI assi... |
+| 8 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Rust | 49,316 | 780 stars today | Browser automation CLI for AI agents |
+| 9 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | 109,152 | 2,393 stars today | Hunt down social media accounts by username across social networks |
+| 10 | [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) | Rust | 6,884 | 192 stars today | A batteries-included framework for building web apps |
 
 ---
 
 ## 历史归档
 
+- [2026-11-11](daily/2026-11-11.md)
 - [2026-11-10](daily/2026-11-10.md)
 - [2026-11-09](daily/2026-11-09.md)
 - [2026-11-08](daily/2026-11-08.md)
@@ -54,8 +55,7 @@
 - [2026-10-15](daily/2026-10-15.md)
 - [2026-10-14](daily/2026-10-14.md)
 - [2026-10-13](daily/2026-10-13.md)
-- [2026-10-12](daily/2026-10-12.md)
-- ... 共 43 天，查看 [daily/](daily/) 目录
+- ... 共 44 天，查看 [daily/](daily/) 目录
 
 ---
 
