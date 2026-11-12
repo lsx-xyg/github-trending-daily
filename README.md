@@ -2,7 +2,7 @@
 
 每日自动收集 GitHub Trending 项目，防止错过。
 
-**最新更新：2026-11-11**
+**最新更新：2026-11-12**
 
 ---
 
@@ -10,21 +10,22 @@
 
 | # | 仓库 | 语言 | Star | 今日新增 | 描述 |
 |---|---|---|---|---|---|
-| 1 | [meta/astryx](https://github.com/meta/astryx) | TypeScript | 23,177 | 3,108 stars today | An open source design system that's fully customizable and agent ready |
-| 2 | [anthropics/skills](https://github.com/anthropics/skills) | Python | 192,442 | 1,679 stars today | Public repository for Agent Skills |
-| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 115,254 | 465 stars today | Production-grade engineering skills for AI coding agents. |
-| 4 | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | Python | 20,546 | 531 stars today | A collection of projects designed to help developers quickly get started with... |
-| 5 | [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | C++ | 17,422 | 456 stars today | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
-| 6 | [we-promise/sure](https://github.com/we-promise/sure) | Ruby | 12,084 | 159 stars today | The personal finance app for everyone (by everyone) |
-| 7 | [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | Python | 6,738 | 790 stars today | Configure and automate Home Assistant with Claude, ChatGPT, and other AI assi... |
-| 8 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Rust | 49,316 | 780 stars today | Browser automation CLI for AI agents |
-| 9 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | 109,152 | 2,393 stars today | Hunt down social media accounts by username across social networks |
-| 10 | [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) | Rust | 6,884 | 192 stars today | A batteries-included framework for building web apps |
+| 1 | [meta/astryx](https://github.com/meta/astryx) | TypeScript | 25,315 | 2,776 stars today | An open source design system that's fully customizable and agent ready |
+| 2 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | 70,503 | 278 stars today | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market st... |
+| 3 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | TypeScript | 1,912 | 159 stars today |  |
+| 4 | [shadcn/improve](https://github.com/shadcn/improve) | - | 11,052 | 361 stars today | Use your most capable model to audit your codebase and write plans for cheape... |
+| 5 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 116,066 | 787 stars today | Production-grade engineering skills for AI coding agents. |
+| 6 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Rust | 49,983 | 708 stars today | Browser automation CLI for AI agents |
+| 7 | [we-promise/sure](https://github.com/we-promise/sure) | Ruby | 13,100 | 1,078 stars today | The personal finance app for everyone (by everyone) |
+| 8 | [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | Python | 7,465 | 645 stars today | Configure and automate Home Assistant with Claude, ChatGPT, and other AI assi... |
+| 9 | [openai/codex-security](https://github.com/openai/codex-security) | TypeScript | 11,856 | 52 stars today | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and f... |
+| 10 | [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) | Java | 67,096 | 51 stars today | All Algorithms implemented in Java |
 
 ---
 
 ## 历史归档
 
+- [2026-11-12](daily/2026-11-12.md)
 - [2026-11-11](daily/2026-11-11.md)
 - [2026-11-10](daily/2026-11-10.md)
 - [2026-11-09](daily/2026-11-09.md)
@@ -54,8 +55,7 @@
 - [2026-10-16](daily/2026-10-16.md)
 - [2026-10-15](daily/2026-10-15.md)
 - [2026-10-14](daily/2026-10-14.md)
-- [2026-10-13](daily/2026-10-13.md)
-- ... 共 44 天，查看 [daily/](daily/) 目录
+- ... 共 45 天，查看 [daily/](daily/) 目录
 
 ---
 
