@@ -2,7 +2,7 @@
 
 每日自动收集 GitHub Trending 项目，防止错过。
 
-**最新更新：2026-11-12**
+**最新更新：2026-11-13**
 
 ---
 
@@ -10,21 +10,22 @@
 
 | # | 仓库 | 语言 | Star | 今日新增 | 描述 |
 |---|---|---|---|---|---|
-| 1 | [meta/astryx](https://github.com/meta/astryx) | TypeScript | 25,315 | 2,776 stars today | An open source design system that's fully customizable and agent ready |
-| 2 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | 70,503 | 278 stars today | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market st... |
-| 3 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | TypeScript | 1,912 | 159 stars today |  |
-| 4 | [shadcn/improve](https://github.com/shadcn/improve) | - | 11,052 | 361 stars today | Use your most capable model to audit your codebase and write plans for cheape... |
-| 5 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 116,066 | 787 stars today | Production-grade engineering skills for AI coding agents. |
-| 6 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Rust | 49,983 | 708 stars today | Browser automation CLI for AI agents |
-| 7 | [we-promise/sure](https://github.com/we-promise/sure) | Ruby | 13,100 | 1,078 stars today | The personal finance app for everyone (by everyone) |
-| 8 | [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | Python | 7,465 | 645 stars today | Configure and automate Home Assistant with Claude, ChatGPT, and other AI assi... |
-| 9 | [openai/codex-security](https://github.com/openai/codex-security) | TypeScript | 11,856 | 52 stars today | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and f... |
-| 10 | [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) | Java | 67,096 | 51 stars today | All Algorithms implemented in Java |
+| 1 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | TypeScript | 3,311 | 739 stars today | Keep your coding agent up to date with the latest web best practices |
+| 2 | [openai/codex-security](https://github.com/openai/codex-security) | TypeScript | 12,553 | 643 stars today | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and f... |
+| 3 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Shell | 96,034 | 63 stars today | Node Version Manager - POSIX-compliant bash script to manage multiple active ... |
+| 4 | [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) | Objective-C | 1,594 | 218 stars today | Enable Hermès Watch Faces on any Apple Watch devices |
+| 5 | [we-promise/sure](https://github.com/we-promise/sure) | Ruby | 14,044 | 967 stars today | The personal finance app for everyone (by everyone) |
+| 6 | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | TypeScript | 29,888 | 151 stars today | An open-source AI coding agent that lives in your terminal. |
+| 7 | [ashhart/TensorFold](https://github.com/ashhart/TensorFold) | Zig | 1,980 | 54 stars today | LLM Inference Engine for Metal, CUDA and Vulkan. |
+| 8 | [nodejs/node](https://github.com/nodejs/node) | JavaScript | 123,619 | 62 stars today | Node.js JavaScript runtime ✨🐢🚀✨ |
+| 9 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 116,768 | 816 stars today | Production-grade engineering skills for AI coding agents. |
+| 10 | [meta/astryx](https://github.com/meta/astryx) | TypeScript | 26,724 | 1,830 stars today | An open source design system that's fully customizable and agent ready |
 
 ---
 
 ## 历史归档
 
+- [2026-11-13](daily/2026-11-13.md)
 - [2026-11-12](daily/2026-11-12.md)
 - [2026-11-11](daily/2026-11-11.md)
 - [2026-11-10](daily/2026-11-10.md)
@@ -54,8 +55,7 @@
 - [2026-10-17](daily/2026-10-17.md)
 - [2026-10-16](daily/2026-10-16.md)
 - [2026-10-15](daily/2026-10-15.md)
-- [2026-10-14](daily/2026-10-14.md)
-- ... 共 45 天，查看 [daily/](daily/) 目录
+- ... 共 46 天，查看 [daily/](daily/) 目录
 
 ---
 
