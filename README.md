@@ -2,7 +2,7 @@
 
 每日自动收集 GitHub Trending 项目，防止错过。
 
-**最新更新：2026-11-13**
+**最新更新：2026-11-14**
 
 ---
 
@@ -10,21 +10,22 @@
 
 | # | 仓库 | 语言 | Star | 今日新增 | 描述 |
 |---|---|---|---|---|---|
-| 1 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | TypeScript | 3,311 | 739 stars today | Keep your coding agent up to date with the latest web best practices |
-| 2 | [openai/codex-security](https://github.com/openai/codex-security) | TypeScript | 12,553 | 643 stars today | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and f... |
-| 3 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Shell | 96,034 | 63 stars today | Node Version Manager - POSIX-compliant bash script to manage multiple active ... |
-| 4 | [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) | Objective-C | 1,594 | 218 stars today | Enable Hermès Watch Faces on any Apple Watch devices |
-| 5 | [we-promise/sure](https://github.com/we-promise/sure) | Ruby | 14,044 | 967 stars today | The personal finance app for everyone (by everyone) |
-| 6 | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | TypeScript | 29,888 | 151 stars today | An open-source AI coding agent that lives in your terminal. |
-| 7 | [ashhart/TensorFold](https://github.com/ashhart/TensorFold) | Zig | 1,980 | 54 stars today | LLM Inference Engine for Metal, CUDA and Vulkan. |
-| 8 | [nodejs/node](https://github.com/nodejs/node) | JavaScript | 123,619 | 62 stars today | Node.js JavaScript runtime ✨🐢🚀✨ |
-| 9 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 116,768 | 816 stars today | Production-grade engineering skills for AI coding agents. |
-| 10 | [meta/astryx](https://github.com/meta/astryx) | TypeScript | 26,724 | 1,830 stars today | An open source design system that's fully customizable and agent ready |
+| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | 50,736 | 215 stars today | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architectur... |
+| 2 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | TypeScript | 4,977 | 1,925 stars today | Keep your coding agent up to date with the latest web best practices |
+| 3 | [openai/codex-security](https://github.com/openai/codex-security) | TypeScript | 13,193 | 751 stars today | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and f... |
+| 4 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | 71,740 | 256 stars today | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market st... |
+| 5 | [we-promise/sure](https://github.com/we-promise/sure) | Ruby | 14,816 | 925 stars today | The personal finance app for everyone (by everyone) |
+| 6 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | TypeScript | 10,518 | 108 stars today | The workspace to stay in the loop and on top of agents - shape, decide, plan,... |
+| 7 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | JavaScript | 93,905 | 71 stars today | A fancy self-hosted monitoring tool |
+| 8 | [block/buzz](https://github.com/block/buzz) | Rust | 37,325 | 97 stars today | A hive mind communication platform |
+| 9 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | Python | 4,236 | 69 stars today | Claude Code skills for equity investors and traders — market analysis, techni... |
+| 10 | [tailscale/tailcat](https://github.com/tailscale/tailcat) | Go | 9,510 | 256 stars today | like netcat, but over Tailscale's data plane, without Tailscale's control plane |
 
 ---
 
 ## 历史归档
 
+- [2026-11-14](daily/2026-11-14.md)
 - [2026-11-13](daily/2026-11-13.md)
 - [2026-11-12](daily/2026-11-12.md)
 - [2026-11-11](daily/2026-11-11.md)
@@ -54,8 +55,7 @@
 - [2026-10-18](daily/2026-10-18.md)
 - [2026-10-17](daily/2026-10-17.md)
 - [2026-10-16](daily/2026-10-16.md)
-- [2026-10-15](daily/2026-10-15.md)
-- ... 共 46 天，查看 [daily/](daily/) 目录
+- ... 共 47 天，查看 [daily/](daily/) 目录
 
 ---
 
