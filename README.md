@@ -2,7 +2,7 @@
 
 每日自动收集 GitHub Trending 项目，防止错过。
 
-**最新更新：2026-11-14**
+**最新更新：2026-11-15**
 
 ---
 
@@ -10,21 +10,22 @@
 
 | # | 仓库 | 语言 | Star | 今日新增 | 描述 |
 |---|---|---|---|---|---|
-| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | 50,736 | 215 stars today | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architectur... |
-| 2 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | TypeScript | 4,977 | 1,925 stars today | Keep your coding agent up to date with the latest web best practices |
-| 3 | [openai/codex-security](https://github.com/openai/codex-security) | TypeScript | 13,193 | 751 stars today | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and f... |
-| 4 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | 71,740 | 256 stars today | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market st... |
-| 5 | [we-promise/sure](https://github.com/we-promise/sure) | Ruby | 14,816 | 925 stars today | The personal finance app for everyone (by everyone) |
-| 6 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | TypeScript | 10,518 | 108 stars today | The workspace to stay in the loop and on top of agents - shape, decide, plan,... |
-| 7 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | JavaScript | 93,905 | 71 stars today | A fancy self-hosted monitoring tool |
-| 8 | [block/buzz](https://github.com/block/buzz) | Rust | 37,325 | 97 stars today | A hive mind communication platform |
-| 9 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | Python | 4,236 | 69 stars today | Claude Code skills for equity investors and traders — market analysis, techni... |
-| 10 | [tailscale/tailcat](https://github.com/tailscale/tailcat) | Go | 9,510 | 256 stars today | like netcat, but over Tailscale's data plane, without Tailscale's control plane |
+| 1 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | TypeScript | 11,220 | 408 stars today | The workspace to stay in the loop and on top of agents - shape, decide, plan,... |
+| 2 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | TypeScript | 6,161 | 1,231 stars today | Keep your coding agent up to date with the latest web best practices |
+| 3 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | Python | 4,893 | 553 stars today | Claude Code skills for equity investors and traders — market analysis, techni... |
+| 4 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 56,362 | 664 stars today | Chrome DevTools for coding agents |
+| 5 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | 51,494 | 893 stars today | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architectur... |
+| 6 | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | TypeScript | 30,383 | 64 stars today | An open-source AI coding agent that lives in your terminal. |
+| 7 | [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | 24,860 | 495 stars today | Build your own AI office with Univer Office SDK. Bring editing, calculation, ... |
+| 8 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | TypeScript | 17,406 | 9 stars today | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applic... |
+| 9 | [ashhart/TensorFold](https://github.com/ashhart/TensorFold) | Zig | 2,176 | 37 stars today | LLM Inference Engine for Metal, CUDA and Vulkan. |
+| 10 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Go | 120,115 | 227 stars today | 🪨 why use many token when few token do trick. Viral skill + proxy for coding ... |
 
 ---
 
 ## 历史归档
 
+- [2026-11-15](daily/2026-11-15.md)
 - [2026-11-14](daily/2026-11-14.md)
 - [2026-11-13](daily/2026-11-13.md)
 - [2026-11-12](daily/2026-11-12.md)
@@ -54,8 +55,7 @@
 - [2026-10-19](daily/2026-10-19.md)
 - [2026-10-18](daily/2026-10-18.md)
 - [2026-10-17](daily/2026-10-17.md)
-- [2026-10-16](daily/2026-10-16.md)
-- ... 共 47 天，查看 [daily/](daily/) 目录
+- ... 共 48 天，查看 [daily/](daily/) 目录
 
 ---
 
